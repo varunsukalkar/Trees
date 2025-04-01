@@ -1,11 +1,7 @@
-# LeetCode
+# TREES
 
-This repository contains my solutions to LeetCode problems.
+This repository contains my solutions to Tress LeetCode problems.
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+A tree is a finite set of nodes in which there is a special node called the root form which the remaining nodes can be portioned into zero, one or more disjoint subsets each of which itself is a tree known as sub tree of T.
 
- ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
-
- Happy coding! 🚀
+![{F1F624F3-B14B-42CE-89BF-7829A831EB67}](https://github.com/user-attachments/assets/dd67fbb6-ab7b-4f9c-a542-a224cd077ad0)
